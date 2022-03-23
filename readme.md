@@ -1,0 +1,1 @@
+Hello, this the first big exercise for The Odin Project that I will be creating. I will be recreating the website that was shown in the given images. I will be implementing HTML, CSS, and the use of flexbox to sucesfully replicate the images. 
